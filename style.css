@@ -541,6 +541,9 @@ form{
     textarea{
        width: 88%; 
     }
+     section.landing .profile .outer-circle .fa-brands{
+        font-size: 1rem;
+    }
     
 }
 
