@@ -693,6 +693,9 @@ section.testimonials .container{
         width: 12rem;
         height: 12rem;
        }
+    .about .container .info p{
+        font-size:0.6rem;
+    }
 }
 
 
