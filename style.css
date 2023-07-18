@@ -653,6 +653,21 @@ section.testimonials .container{
 }
 
 }
+.about .container .info p{
+        font-size:1rem;
+    }
+    .read{
+        font-size:1rem;
+    }
+    section.landing .info h1{
+    font-size:1rem;
+}
+   section.landing h3{
+    font-size:1rem;
+}
+   section.landing .info p{
+    font-size:1rem;
+}
 
 
 @media only screen and (max-width:1025px){
