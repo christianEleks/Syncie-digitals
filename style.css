@@ -653,21 +653,7 @@ section.testimonials .container{
 }
 
 }
-.about .container .info p{
-        font-size:1.5rem;
-    }
-    .read{
-        font-size:1rem;
-    }
-    section.landing .info h1{
-    font-size:1.8rem;
-}
-   section.landing h3{
-    font-size:1.2rem;
-}
-   section.landing .info p{
-    font-size:1.5rem;
-}
+
 
 
 @media only screen and (max-width:1025px){
@@ -708,25 +694,10 @@ section.testimonials .container{
         width: 12rem;
         height: 12rem;
        }
-    .about .container .info p{
-        font-size:0.6rem;
-    }
-    .read{
-        font-size:0.7rem;
-    }
      section.about .container{
         grid-template-columns: 1fr;
         text-align: center;
     }
-    section.landing .info h1{
-    font-size:1rem;
-}
-   section.landing h3{
-    font-size:0.7rem;
-}
-   section.landing .info p{
-    font-size:0.6rem;
-}
 }
 
 
