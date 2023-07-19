@@ -651,7 +651,9 @@ section.testimonials .container{
 .mark{
     font-size: 0.7rem;
 }
-
+ .box p{
+       font-size:1rem:
+   }
 }
 
 
@@ -699,16 +701,22 @@ section.testimonials .container{
         text-align: center;
     }
    section.about h1{
-       font-size:1rem:
+       font-size:0.7rem:
    }
     section.skills h1{
-       font-size:1rem:
+       font-size:0.7rem:
    }
     section.services h1{
-       font-size:1rem:
+       font-size:0.7rem:
    }
     section.testimonials h1{
-       font-size:1rem:
+       font-size:0.7rem:
+   }
+    .box h1{
+       font-size:0.7rem:
+   }
+     .box p{
+       font-size:0.5rem:
    }
 }
 
