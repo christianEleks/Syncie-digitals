@@ -698,7 +698,18 @@ section.testimonials .container{
         grid-template-columns: 1fr;
         text-align: center;
     }
- 
+   section.about h1{
+       font-size:1rem:
+   }
+    section.skills h1{
+       font-size:1rem:
+   }
+    section.services h1{
+       font-size:1rem:
+   }
+    section.testimonials h1{
+       font-size:1rem:
+   }
 }
 
 
