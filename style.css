@@ -520,6 +520,64 @@ form{
 
 
 
+
+
+
+@media only screen and (max-width:1025px){
+
+    .landing{
+        margin-top: 2rem;
+       }
+    section.landing .container{
+        grid-template-columns: 1fr;
+        grid-template-rows: 20% 50%;
+        text-align: center;
+        row-gap: 6rem;  
+       }
+       section.landing .container .socials{
+        display: none;
+       }
+       section.landing .container .info{
+        width: 90%;
+        margin: 0 auto;
+       }
+       section.landing .container .info h1{
+        text-align: center;
+       }
+       section.landing .container .info p{
+        margin: 0 auto;
+        width: 98%;
+       }
+       section.landing .container .profile{
+        grid-row: 1;
+        width: 94%;
+        margin: 0 auto;
+       }
+       section.landing .container .outer-circle{
+        width: 18rem;
+        height: 18rem;
+       }
+       section.landing .container .inner-circle{
+        width: 12rem;
+        height: 12rem;
+       }
+     section.about .container{
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+   section.landing h3{
+    font-size:0.7rem;
+}
+section.landing .info p{
+font-size:0.6rem;
+}
+    section.about p{
+   font-size:0.6rem;
+}
+}
+
+
+
 @media only screen and (max-width:450px){
     .me{
        width: 90%;
@@ -651,60 +709,6 @@ font-size:1.2rem;
 }
     section.about p{
    font-size:1.2rem;
-}
-}
-
-
-@media only screen and (max-width:1025px){
-
-    .landing{
-        margin-top: 2rem;
-       }
-    section.landing .container{
-        grid-template-columns: 1fr;
-        grid-template-rows: 20% 50%;
-        text-align: center;
-        row-gap: 6rem;  
-       }
-       section.landing .container .socials{
-        display: none;
-       }
-       section.landing .container .info{
-        width: 90%;
-        margin: 0 auto;
-       }
-       section.landing .container .info h1{
-        text-align: center;
-       }
-       section.landing .container .info p{
-        margin: 0 auto;
-        width: 98%;
-       }
-       section.landing .container .profile{
-        grid-row: 1;
-        width: 94%;
-        margin: 0 auto;
-       }
-       section.landing .container .outer-circle{
-        width: 18rem;
-        height: 18rem;
-       }
-       section.landing .container .inner-circle{
-        width: 12rem;
-        height: 12rem;
-       }
-     section.about .container{
-        grid-template-columns: 1fr;
-        text-align: center;
-    }
-   section.landing h3{
-    font-size:0.7rem;
-}
-section.landing .info p{
-font-size:0.6rem;
-}
-    section.about p{
-   font-size:0.6rem;
 }
 }
 
