@@ -574,6 +574,9 @@ font-size:0.6rem;
     section.about p{
    font-size:0.6rem;
 }
+.read{
+   font-size:0.6rem; 
+}
 }
 
 
@@ -702,13 +705,16 @@ section.testimonials .container{
 
 @media only screen and (max-width:550px){
        section.landing h3{
-    font-size:1.6rem;
+    font-size:1.2rem;
 }
 section.landing .info p{
-font-size:1.2rem;
+font-size:0.9rem;
 }
     section.about p{
-   font-size:1.2rem;
+   font-size:0.9rem;
+}
+.read{
+   font-size:0.9rem; 
 }
 }
 
