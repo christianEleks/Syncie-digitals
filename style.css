@@ -642,6 +642,17 @@ section.testimonials .container{
    }
 }
 
+@media only screen and (max-width:550px){
+       section.landing h3{
+    font-size:1.6rem;
+}
+section.landing .info p{
+font-size:1.2rem;
+}
+    section.about p{
+   font-size:1.2rem;
+}
+}
 
 
 @media only screen and (max-width:1025px){
@@ -697,18 +708,6 @@ font-size:0.6rem;
 }
 }
 
-@media only screen and (max-width:550px){
-       section.landing h3{
-    font-size:1.6rem;
-}
-section.landing .info p{
-font-size:1.2rem;
-}
-    section.about p{
-   font-size:1.2rem;
-}
-}
-}
 
 
 
